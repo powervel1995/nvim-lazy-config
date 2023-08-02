@@ -20,7 +20,7 @@ return {
           formatting.clang_format,
           diagnostics.mypy,
           diagnostics.ruff,
-          diagnostics.eslint,
+          -- diagnostics.eslint,
         })
       end,
     },
